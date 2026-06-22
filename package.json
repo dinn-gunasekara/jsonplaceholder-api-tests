@@ -1,0 +1,26 @@
+{
+  "name": "jsonplaceholder-api-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinn-gunasekara/jsonplaceholder-api-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinn-gunasekara/jsonplaceholder-api-tests/issues"
+  },
+  "homepage": "https://github.com/dinn-gunasekara/jsonplaceholder-api-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0"
+  }
+}
